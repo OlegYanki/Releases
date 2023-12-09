@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FreeTools</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 09 Dec 2023 23:06:47 +0200</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/OlegYanki/Releases/releases/download/Release/FreeTools.dmg" length="14319426" type="application/octet-stream" sparkle:edSignature="mQjOk7A9rax3nQ9RMLFXePUDuCKm9EZ31CV+q8YcHpmNK2nwC6RafCIubGB1cylqgbgCj8EKWbTl504ktqgWBQ=="/>
+        </item>
+    </channel>
+</rss>
