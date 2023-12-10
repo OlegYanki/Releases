@@ -4,11 +4,11 @@
         <title>FreeTools</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 10 Dec 2023 12:55:29 +0200</pubDate>
+            <pubDate>Sun, 10 Dec 2023 13:03:10 +0200</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://olegyanki.github.io/Releases/FreeTools.dmg" length="14319598" type="application/octet-stream" sparkle:edSignature="56Sh2UbaLD9i40DH28iWTJRItE50dvmEhzy+dOy1g4wLXeSqySro8C3zAFtzqqV0ktDPX+K3pHzrjQKjEplECg=="/>
+            <enclosure url="https://olegyanki.github.io/Releases/FreeTools.dmg" length="14319673" type="application/octet-stream" sparkle:edSignature="fwdgMJOx6rmt3mehS3mWvvwHz2NQVVsGvoP2xDVRxWfIUwEVuA3u6BJzOfPE45ENoMCs+GMCHd2AXjb3TZwlCQ=="/>
         </item>
     </channel>
 </rss>
