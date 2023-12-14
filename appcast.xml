@@ -3,12 +3,12 @@
     <channel>
         <title>FreeTools</title>
         <item>
-            <title>12.23.01</title>
-            <pubDate>Sun, 10 Dec 2023 13:44:15 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>12.23.01</sparkle:shortVersionString>
+            <title>23.12.02</title>
+            <pubDate>Thu, 14 Dec 2023 13:44:34 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>23.12.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/OlegYanki/Releases/releases/download/Release/FreeTools.dmg" length="14319537" type="application/octet-stream" sparkle:edSignature="CVOR/tx6EQD/8ntuf04/noQk3rs21f/ACKn2/7aCwRfSeb1UHFJ9xYS6Oc0U6ZG5nj7ml6CiEg51Zbf8s9LnAw=="/>
+            <enclosure url="https://github.com/OlegYanki/Releases/releases/download/Release/FreeTools.dmg" length="13440614" type="application/octet-stream" sparkle:edSignature="WUKDsA39Z9g0B9Z1EwDroKFfJZZu2NMz5hJwM9WEDuBYUNs6CqTEmifiZ4a5YZhpqm4MeBwRUUJNHCXJAPSlAQ=="/>
         </item>
     </channel>
 </rss>
