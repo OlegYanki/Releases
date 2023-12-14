@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>23.12.03</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://olehyankivskyi.github.io/Releases/releases/download/Release/FreeTools.dmg" length="13440641" type="application/octet-stream" sparkle:edSignature="2SL1WXMb+bcHuLCva2eN/AiKiq6GMK8UEfVh4T1uRibFAv+XMyRFMIzxEfvm9FWk74PmT6iCuxxnG23HfliVBA=="/>
+            <enclosure url="https://github.com/OlehYankivskyi/Releases/releases/download/Release/FreeTools.dmg" length="13440641" type="application/octet-stream" sparkle:edSignature="2SL1WXMb+bcHuLCva2eN/AiKiq6GMK8UEfVh4T1uRibFAv+XMyRFMIzxEfvm9FWk74PmT6iCuxxnG23HfliVBA=="/>
         </item>
     </channel>
 </rss>
