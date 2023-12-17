@@ -4,11 +4,11 @@
         <title>FreeTools</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 15 Dec 2023 22:53:39 +0200</pubDate>
+            <pubDate>Sun, 17 Dec 2023 14:14:08 +0200</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/OlehYankivskyi/Releases/releases/download/Release/FreeTools.dmg" length="13441270" type="application/octet-stream" sparkle:edSignature="6iEA4EsPz/xeE1aCxDBmu7xUsTIGCrk63ZUWEWr1sj5jyemD13PwtZDY6F6I29xE4xfE9FJ6wgWV+62Q43H2Dg=="/>
+            <enclosure url="https://github.com/OlehYankivskyi/Releases/releases/download/Release/FreeTools.dmg" length="13434375" type="application/octet-stream" sparkle:edSignature="OKJNl6LFaDlUBSfJRUwh3cwicfiah2A0P8kYgpT06dgEnUL71tKFz7/vdojwvdEIeiXPB67Dkmvoy3jhhZ2UDA=="/>
         </item>
     </channel>
 </rss>
